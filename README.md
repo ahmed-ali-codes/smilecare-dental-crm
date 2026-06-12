@@ -2,10 +2,10 @@
 
 > A lightweight, portable Dental CRM built with PHP and flat-file JSON storage — no database required.
 
-![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?style=flat-square&logo=php&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Storage](https://img.shields.io/badge/Storage-Flat--File%20JSON-orange?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+<img width="1268" height="835" alt="Screenshot 2026-06-12 at 9 30 49 PM" src="https://github.com/user-attachments/assets/a8002363-7cfc-4a58-b3b3-ac4e1ae83757" />
+<img width="1706" height="852" alt="Screenshot 2026-06-12 at 9 31 12 PM" src="https://github.com/user-attachments/assets/691a1f3b-ca81-451c-a23b-97d466b18a32" />
+<img width="1709" height="855" alt="Screenshot 2026-06-12 at 9 31 27 PM" src="https://github.com/user-attachments/assets/029ba586-5468-4f34-a538-cc794113a3e4" />
+
 
 SmileCare is a self-hosted dental appointment management system designed for small clinics that need a simple, fast, and portable booking solution — without the overhead of MySQL or any external services.
 
