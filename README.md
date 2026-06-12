@@ -156,6 +156,11 @@ Contributions are welcome! Feel free to fork this repo, open issues, or submit p
 
 ---
 
+## 🔗 Related Projects
+| Project | Description |
+|---|---|
+| [MediTrack Clinic CRM](https://github.com/ahmed-ali-codes/meditrack-clinic-crm) | Same stack, purpose-built for general clinics |
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
