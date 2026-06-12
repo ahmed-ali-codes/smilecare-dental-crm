@@ -167,7 +167,7 @@ This project is licensed under the [MIT License](LICENSE).
 **Ahmed Ali**
 - GitHub: [@ahmed-ali-codes](https://github.com/ahmed-ali-codes)
 - LinkedIn: [linkedin.com/in/ahmed-ali-jawad](https://linkedin.com/in/ahmed-ali-jawad)
-- Agency: [Ecotrustia Solutions](https://ecotrustia.com)
+- Agency: [Ecotrustia Solutions](https://ecotrustiasolutions.com)
 
 ---
 
