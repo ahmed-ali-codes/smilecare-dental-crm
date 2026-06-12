@@ -1,0 +1,14 @@
+# Ignore data directory contents except index.html or .htaccess
+/data/*
+!/data/.htaccess
+!/data/index.html
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
