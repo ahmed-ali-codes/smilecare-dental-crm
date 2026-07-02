@@ -4,7 +4,7 @@
 // Default: username = admin, password = admin123
 // ============================================================
 define('ADMIN_USERNAME', 'admin');
-define('ADMIN_PASSWORD_HASH', ''); // Replace with your bcrypt password hash. Use: php -r echo password_hash('your_password', PASSWORD_BCRYPT);
+define('ADMIN_PASSWORD_HASH', ''); // Replace with your bcrypt password hash. Use: php -r "echo password_hash('your_password', PASSWORD_BCRYPT), PHP_EOL;"
 define('ADMIN_EMAIL', 'admin@smilecare.com');
 define('CLINIC_NAME', 'SmileCare Dental');
 define('CLINIC_TIMEZONE', 'Asia/Dubai');
