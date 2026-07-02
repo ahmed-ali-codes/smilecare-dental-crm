@@ -12,3 +12,6 @@
 # Ignore OS generated files
 .DS_Store
 Thumbs.db
+
+# Ignore configuration with secrets
+includes/config.php
